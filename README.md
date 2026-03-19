@@ -63,7 +63,7 @@ I care about three things: **clean thinking, strong evaluation, and clear presen
         <img src="https://img.shields.io/badge/OSMnx-1F6FEB?style=flat-square" />
         <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square" />
       </p>
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/SafeStreets-LDN"> View Repository</a></p>
+      <p><a href="https://github.com/Raihantanzim/SafeStreets-LDN-Graph-Transformers-for-Crash-Risk-in-London"> View Repository</a></p>
     </td>
     <td valign="top" width="50%">
       <h3> Food Delivery Analytics & Prediction</h3>
@@ -75,7 +75,7 @@ I care about three things: **clean thinking, strong evaluation, and clear presen
         <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
       </p>
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/Machine-Learning-Repository"> View Repository</a></p>
+      <p><a href="https://github.com/Raihantanzim/Machine-Learning"> View Repository</a></p>
     </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@ I care about three things: **clean thinking, strong evaluation, and clear presen
         <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square" />
         <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
       </p>
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/Introduction-to-Artificial-Intelligence"> View Repository</a></p>
+      <p><a href="https://github.com/Raihantanzim/Introduction-to-Artificial-Intelligence"> View Repository</a></p>
     </td>
     <td valign="top" width="50%">
       <h3> London Underground Network</h3>
@@ -101,7 +101,7 @@ I care about three things: **clean thinking, strong evaluation, and clear presen
         <img src="https://img.shields.io/badge/Algorithms-8B5CF6?style=flat-square" />
         <img src="https://img.shields.io/badge/Data_Structures-10B981?style=flat-square" />
       </p>
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME/Advanced-Algorithms-and-Data-Structures"> View Repository</a></p>
+      <p><a href="https://github.com/Raihantanzim/Advanced-Algorithms-and-Data-Structures"> View Repository</a></p>
     </td>
   </tr>
 </table>
