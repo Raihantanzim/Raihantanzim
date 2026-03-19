@@ -144,14 +144,7 @@ I care about three things: **clean thinking, strong evaluation, and clear presen
 
 ---
 
-##  What Makes This Profile Strong
 
-- **Clear direction:** positioned for data science, machine learning, and analytics roles
-- **Technical depth:** includes graph learning, predictive modeling, evaluation, and data workflows
-- **Visual structure:** banner, cards, badges, and compact sections make it easy to scan
-- **Project-led branding:** the profile feels like a portfolio, not a long résumé dump
-
----
 
 ##  Contact
 
