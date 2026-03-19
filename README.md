@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assets/profile-banner.svg" alt="Md Abdul Raihan Tanzim profile banner" width="100%" />
 </p>
+---
 ## A Quick, Who am I?
 <h1 align="center">Md Abdul Raihan Tanzim</h1>
 <h3 align="center">Data Science Student • University of Greenwich • Turning data into models, insights, and decision-ready systems</h3>
