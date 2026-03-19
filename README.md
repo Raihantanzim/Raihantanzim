@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/profile-banner.svg" alt="Md Abdul Raihan Tanzim profile banner" width="100%" />
 </p>
-
+## A Quick, Who am I?
 <h1 align="center">Md Abdul Raihan Tanzim</h1>
 <h3 align="center">Data Science Student • University of Greenwich • Turning data into models, insights, and decision-ready systems</h3>
 
@@ -21,7 +21,7 @@
 
 ---
 
-##  About Me
+## More About me
 
 I am a **BSc Computer Science (Data Science)** student at the **University of Greenwich** with experience in **Python, SQL, R, machine learning, data visualization, and analytical problem solving**. My projects focus on predictive modeling, graph learning, geospatial analysis, and practical data workflows that connect technical work to real-world decisions.
 
