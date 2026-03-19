@@ -1,0 +1,56 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Professional profile banner for Md Abdul Raihan Tanzim">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.48" stop-color="#0B1930"/>
+      <stop offset="1" stop-color="#101D3A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="210" y1="70" x2="965" y2="289" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#30CFD0"/>
+      <stop offset="0.52" stop-color="#4B7BF5"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="line" x1="882" y1="22" x2="1208" y2="262" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#30CFD0" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0.65"/>
+    </linearGradient>
+    <filter id="blurGlow" x="0" y="0" width="1280" height="320" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="36"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1232" height="272" rx="20" stroke="rgba(255,255,255,0.10)" stroke-width="1.5"/>
+
+  <ellipse cx="205" cy="75" rx="165" ry="95" fill="#1A5FFF" fill-opacity="0.14" filter="url(#blurGlow)"/>
+  <ellipse cx="1100" cy="250" rx="150" ry="90" fill="#8B5CF6" fill-opacity="0.12" filter="url(#blurGlow)"/>
+
+  <rect x="68" y="64" width="560" height="192" rx="22" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)"/>
+
+  <text x="90" y="124" fill="white" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19" font-weight="600" letter-spacing="1.8">MD ABDUL RAIHAN TANZIM</text>
+  <text x="90" y="170" fill="url(#accent)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="30" font-weight="800">Data Science • Machine Learning • Analytics • AI</text>
+  <text x="90" y="205" fill="#C6D6F5" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" font-weight="500">Building predictive models, graph learning systems, and professional-grade AI-driven data products.</text>
+
+
+  <g opacity="0.95">
+    <path d="M824 210C875 176 922 192 955 142C980 104 1006 74 1063 87C1111 98 1147 143 1201 111" stroke="url(#line)" stroke-width="4" stroke-linecap="round"/>
+    <path d="M824 238C865 222 904 228 947 204C989 180 1021 153 1062 165C1107 178 1143 228 1200 213" stroke="#8AB4FF" stroke-opacity="0.35" stroke-width="3" stroke-linecap="round"/>
+
+    <circle cx="824" cy="210" r="8" fill="#30CFD0"/>
+    <circle cx="955" cy="142" r="9" fill="#60A5FA"/>
+    <circle cx="1063" cy="87" r="10" fill="#A78BFA"/>
+    <circle cx="1201" cy="111" r="8" fill="#F472B6"/>
+
+    <rect x="862" y="96" width="26" height="116" rx="8" fill="#183657"/>
+    <rect x="898" y="124" width="26" height="88" rx="8" fill="#1C406C"/>
+    <rect x="934" y="82" width="26" height="130" rx="8" fill="#24568A"/>
+    <rect x="970" y="144" width="26" height="68" rx="8" fill="#2563EB"/>
+    <rect x="1006" y="112" width="26" height="100" rx="8" fill="#3B82F6"/>
+    <rect x="1042" y="64" width="26" height="148" rx="8" fill="#7C3AED"/>
+    <rect x="1078" y="132" width="26" height="80" rx="8" fill="#9333EA"/>
+
+    <circle cx="1160" cy="236" r="44" fill="none" stroke="#8B5CF6" stroke-opacity="0.22" stroke-width="2"/>
+    <circle cx="1160" cy="236" r="24" fill="none" stroke="#38BDF8" stroke-opacity="0.35" stroke-width="2"/>
+    <circle cx="1160" cy="236" r="5" fill="#E5F0FF"/>
+  </g>
+</svg>
