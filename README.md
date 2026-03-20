@@ -92,7 +92,7 @@ I care about three things: **clean thinking, strong evaluation, and clear presen
       <p><a href="https://github.com/Raihantanzim/Introduction-to-Artificial-Intelligence"> View Repository</a></p>
     </td>
     <td valign="top" width="50%">
-      <h3> London Underground Network</h3>
+      <h3> Designing, Developing, and Testing Solutions for the London Underground System</h3>
       <p><strong>Graph algorithms and pathfinding on transit data.</strong></p>
       <p>Applied sorting, searching, and graph algorithms to problems on the London Underground network, focusing on efficient traversal, pathfinding, and management of complex structured data.</p>
       <p>
