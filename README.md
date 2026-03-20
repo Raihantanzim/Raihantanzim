@@ -2,7 +2,7 @@
 <h1 align="center">Md Abdul Raihan Tanzim</h1>
 <h3 align="center">Data Science Student • University of Greenwich • Turning data into models, insights, and decision-ready systems</h3>
 
-I primarily work with Python for machine learning, data science, and analytics, supported by regular use of SQL and shell scripting (Bash/Zsh/PowerShell). I also have experience with Rust and HTML/CSS, alongside broader exposure to several other languages and tools across development and analytical projects.
+I primarily work with Python for machine learning, data science, and analytics, supported by regular use of SQL and alongside broader exposure to several other languages and tools across development and analytical projects.
 <p align="center">
   <a href="mailto:raihantanzim@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/raihan-tanzim-b09281374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
