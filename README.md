@@ -53,7 +53,7 @@ I care about three things: **clean thinking, strong evaluation, and clear presen
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3> SafeStreets-LDN</h3>
+      <h3> SafeStreets-LDN: Graph Transformers for Crash Risk in London</h3>
       <p><strong>Open-data road safety risk mapping with graph neural networks.</strong></p>
       <p>Built a crash-risk prediction pipeline for London intersections using <strong>OpenStreetMap</strong> road networks and <strong>STATS19</strong> collision data. Engineered node and edge geospatial features, trained <strong>TransformerConv GNNs</strong>, and compared them against <strong>XGBoost</strong> and baseline models using spatial holdout evaluation.</p>
       <p>
